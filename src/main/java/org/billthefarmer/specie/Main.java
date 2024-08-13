@@ -296,7 +296,7 @@ public class Main extends Activity
     public static final String SAVE_SELECT = "save_select";
 
     public static final String DAILY_URL =
-        "https://www.floatrates.com/daily/eur.json";
+        "https://www.floatrates.com/daily/npr.json";
 
     public final static String CHOICE = "choice";
     public final static String WIDGET = "widget://";
